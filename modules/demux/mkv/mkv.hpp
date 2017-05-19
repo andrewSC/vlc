@@ -46,6 +46,7 @@
 #include <vlc_demux.h>
 #include <vlc_aout.h> /* For reordering */
 
+#include <functional>
 #include <iostream>
 #include <cassert>
 #include <typeinfo>
